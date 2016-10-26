@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.rohith.midterm.MainActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editText_id"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="96dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="Enter City,State,Country " />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/textView"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Switch_lad"
+        android:id="@+id/switch1"
+        android:layout_alignTop="@+id/textView"
+        android:layout_toRightOf="@+id/textView"
+        android:layout_toEndOf="@+id/textView"
+        android:layout_marginLeft="66dp"
+        android:layout_marginStart="66dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/but_l"
+        android:id="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@+id/textView"
+        android:layout_marginBottom="76dp"
+        android:layout_toRightOf="@+id/textView" />
+
+</RelativeLayout>

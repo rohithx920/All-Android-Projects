@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="Switch_lad">Use metric system</string>
+    <string name="but_l">Check Weather!</string>
+</resources>
