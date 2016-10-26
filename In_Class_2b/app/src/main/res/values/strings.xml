@@ -1,0 +1,23 @@
+<resources>
+
+<string name="app_name">In Class 2b</string>
+
+<string name="Amount_result">Amount (USD)</string>
+
+<string name="Result">Result:</string>
+
+<string name="Euro_radio">Euro (EUR)</string>
+
+<string name="CAD_radio">Canadian Dollar (CAD)</string>
+
+<string name="GBP_radio">British Pound (GBP)</string>
+
+<string name="JPY_radio">Japanese Yen (JPY)</string>
+
+<string name="clear_button">Clear All</string>
+
+<string name="Convert_button">Convert</string>
+    <string name="default_value">1</string>
+    <string name="default_result">1 USD =0.84 EUR</string>
+
+</resources>
