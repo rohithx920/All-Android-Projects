@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InClass04</string>
+    <string name="spinner">Select Password Length</string>
+    <string name="Async_button">Generate Password(AsyncTask)</string>
+    <string name="Thread_button">Generate Password(Thread)</string>
+    <string name="Numbers_checkbox">Numbers</string>
+    <string name="Uppercase_checkbox">Uppercase Letters</string>
+    <string name="Lowercase_checkbox">Lowercase Letters</string>
+    <string name="Special_char_checkbox">Special Characters</string>
+    <string name="Result" />
+
+    <string-array name="spinnerItems">
+        <item>Select Password Length</item>
+        <item>8 - 12</item>
+        <item>13 - 17</item>
+        <item>18 - 22</item>
+    </string-array>
+</resources>

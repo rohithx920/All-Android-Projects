@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClass06</string>
+    <string name="show_favorites">Show Favorites</string>
+    <string name="show_all">Show All</string>
+</resources>

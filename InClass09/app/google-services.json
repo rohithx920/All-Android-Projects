@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "768144973023",
+    "firebase_url": "https://inclass09-2c16f.firebaseio.com",
+    "project_id": "inclass09-2c16f",
+    "storage_bucket": "inclass09-2c16f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768144973023:android:1282089039e75623",
+        "android_client_info": {
+          "package_name": "com.example.rohith.inclass09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768144973023-srtopvtmucbtvkv21aavotgt7jrnlt82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0EHPxUrOSicMsARazbdMK2WsMwl6xvgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

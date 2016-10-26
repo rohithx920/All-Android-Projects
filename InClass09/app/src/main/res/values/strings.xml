@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InClass09</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="fullname_input" />
+    <string name="email_input" />
+    <string name="password_input" />
+    <string name="signup_button">Sign Up</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="create_button">Create New Account</string>
+    <string name="login_email_input" />
+    <string name="login_pw_input" />
+    <string name="show_favorites">Show Favorites</string>
+    <string name="show_all">Show All</string>
+
+</resources>

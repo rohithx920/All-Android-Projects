@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="LoadPreviousOrder_label">Load Previous Order</string>
+    <string name="Add_Topping_label">Add Topping</string>
+    <string name="Clear_Pizza_label">Clear Pizza</string>
+    <string name="Check_label">Checkout</string>
+    <string name="Total_label"><b><u>TOTAL</u></b></string>
+    <string name="Finish_l">Finish</string>
+    <string name="Del_lab">Delivery Cost</string>
+    <string name="topings_l">$0</string>
+    <string name="Toppings_l">Toppings</string>
+    <string name="base_price">$6.5</string>
+    <string name="b_label">Base Price</string>
+    <string name="Your_order_l">Your Order</string>
+</resources>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pizza_app/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_681c1ca1d1af9fa444c640bf678976ff21a323dd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pizza_app/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_1786a1be84329bc1250ef05d33002670867e66d5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pizza_app/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_ed3d2d4c50135396ee871e69a9ef97359b0c6051.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pizza_app/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_ac9df72057c47b00df69da0b197d9b91306d6842.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pizza_app/app/build/intermediates/pre-dexed/debug/debug_5e7a3ddb04d4385eb286245c12b0fb70cf4f3e5c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

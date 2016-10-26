@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ClearButton">Clear</string>
+    <string name="GoButton">Go</string>
+    <string name="textViewTitle">Podcast Title</string>
+    <string name="textTitle">Title</string>
+    <string name="textUpdateDate">Updated Date</string>
+    <string name="textViewSummary">Summary</string>
+</resources>

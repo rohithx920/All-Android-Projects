@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">In_Class05</string>
+    <string name="Go" />
+    <string name="Go_label">Go</string>
+    <string name="Search_label">Search Keyword</string>
+
+</resources>

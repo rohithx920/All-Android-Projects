@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InClass03</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="Student_Information_label">Student Information</string>
+    <string name="name_label">NAME:</string>
+    <string name="Email_label">EMAIL</string>
+    <string name="Prog_label">Prog.Language:</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="fav_Language">Favorite Programming Language:</string>
+    <string name="java">Java</string>
+    <string name="c">C</string>
+    <string name="C_sharp">C#</string>
+    <string name="submit_button">Submit</string>
+    <string name="save_label">Save</string>
+    <string name="Edit_info_label">Edit Information</string>
+    <string name="edit">edit</string>
+
+</resources>

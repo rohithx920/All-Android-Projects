@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="48dp"
+        android:id="@+id/imageView"
+        android:src="@mipmap/marker" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Place"
+        android:textColorHint="@android:color/holo_red_light"
+        android:ems="10"
+        android:id="@+id/editText5"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_toEndOf="@+id/imageView" />
+
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="48dp"
+        android:id="@+id/imageView2"
+        android:src="@mipmap/editing"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/imageView3"
+        android:layout_toStartOf="@+id/imageView3" />
+
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="48dp"
+        android:id="@+id/imageView3"
+        android:src="@mipmap/info"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>
