@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="p_lab">Person\'s Name</string>
+    <string name="b_lab">Your Budget</string>
+    <string name="d_lab">$</string>
+    <string name="bud_L">Budget</string>
+</resources>
